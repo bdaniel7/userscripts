@@ -1,1 +1,1 @@
-# Tampermonkey/Greasemonley scripts
+# Tampermonkey/Greasemonkey scripts
