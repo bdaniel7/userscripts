@@ -20,6 +20,7 @@
     $("span:contains('gandul.info')").parents("article").hide();
     $("span:contains('fanatik.ro')").parents("article").hide();
     $("article.celebritati.entertainment, article.prosport").hide();
+	$("div:contains('wowbiz.ro')").parents(".sidebar-container").hide();
     $("div.cross-gsp").hide();
 
 })(jQuery);
