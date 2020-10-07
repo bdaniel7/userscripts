@@ -21,6 +21,8 @@
     $("span:contains('fanatik.ro')").parents("article").hide();
     $("article.celebritati.entertainment, article.prosport").hide();
 	$("div:contains('wowbiz.ro')").parents(".sidebar-container").hide();
+	$("div:contains('clickpentrufemei.ro')").parents(".clickpentrufemei").hide();
+    $("div:contains('okmagazine.ro')").parents(".okmagazine").hide();
     $("div.cross-gsp").hide();
 
 })(jQuery);
